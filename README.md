@@ -4,7 +4,7 @@
  REST CRUD API with node.js,express.js and mongoDB
 
    you can do crud operation on model( user),you can get all users   from     databse  (myApp),add user by id,get user by id,delete user by id,update user by id
-
+   in file "user.json" ,fake data is available you u can use for crud operation
 Clone this repo on your github account or download zip file and then open in vs code
 
 ## Installation-Guide
